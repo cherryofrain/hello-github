@@ -1,2 +1,10 @@
-# hello-github
-我的第一个 GitHub 仓库，用于学习 Git 和 GitHub。
+# Hello GitHub
+
+这是我的第一个 GitHub 仓库。
+
+## 学习目标
+
+- 学习创建仓库
+- 学习创建和修改文件
+- 学习提交变更
+- 学习查看提交历史
